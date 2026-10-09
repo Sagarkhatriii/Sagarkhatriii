@@ -21,6 +21,7 @@ Building practical web applications and strengthening my IT support skills.
 | [tori&co Gaming Store](https://github.com/Sagarkhatriii/gaming-store) | Searchable gaming catalogue, product details, persistent cart, demo checkout | UI design, state management, local storage, testing |
 | [Weather Explorer](https://github.com/Sagarkhatriii/weatherapp) | City search, current conditions, five-day forecast | REST APIs, asynchronous JavaScript, request cancellation |
 | [Calc Studio](https://github.com/Sagarkhatriii/calculator-app) | Expression calculator with keyboard input and saved history | Parsing, operator precedence, validation, unit tests |
+| [Bubble Chase](https://github.com/Sagarkhatriii/bubble-chase) | Colourful bubbles flee the pointer, with touch controls and timed challenges | Canvas animation, physics, responsive interaction |
 | [Tic-Tac-Toe](https://github.com/Sagarkhatriii/tic-tac-toe) | Two-player game with win detection, draws, and restart | Game state, DOM events, accessible controls |
 
 ### My background
