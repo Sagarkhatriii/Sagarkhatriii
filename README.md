@@ -8,7 +8,7 @@ Building practical web applications and strengthening my IT support skills.
 
 **JavaScript** · **HTML** · **CSS** · **Git**
 
-[LinkedIn](https://www.linkedin.com/in/sagarkhatrii) · [Featured storefront demo](https://nexus-gaming-sagar.tunedboar9.chatgpt.site)
+[LinkedIn](https://www.linkedin.com/in/sagarkhatrii) · [Featured storefront demo](https://sagarkhatriii.github.io/gaming-store/)
 
 </div>
 
